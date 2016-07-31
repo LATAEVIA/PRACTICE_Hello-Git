@@ -1,5 +1,3 @@
-# PRACTICE_Hello-Git
-An exercise to begin familiarizing myself with the process of using Git, Github, and the command line daily.
 # _Hello World_
 
 #### _Git, Github, and the command line practice, 03/18/2016_
